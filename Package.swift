@@ -7,7 +7,7 @@ let package = Package(
     targets: [
         .executableTarget(
             name: "CaffeineApp",
-            path: "Sources/CaffeineApp"
+            path: "src"
         )
     ]
 )
